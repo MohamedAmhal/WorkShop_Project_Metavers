@@ -70,7 +70,6 @@ These documents are embedded and stored in **ChromaDB** to support **RAG pipelin
 ---
 
 ## 📌 Acknowledgements
-- [Metacerse](https://metacerse.com) for the internship opportunity  
 - Hugging Face, LangChain, and Mistral AI for open-source tools
 
 ---
@@ -80,5 +79,5 @@ For any inquiries or questions, feel free to reach out:
 
 **Mohamed Amhal**  
 💼 Data Science & AI Engineer  
-📧 [Insert your email or LinkedIn]
+📧 https://www.linkedin.com/in/mohamed-amhal-168360254/
 
