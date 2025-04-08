@@ -1,0 +1,775 @@
+Question: 1 acre equal to how many square miles? Answer: 0.0015625 Square mile
+Question: 1 acre how much meter? Answer: 4046.86 Square meter
+Question: 1 acre is how wide? Answer: 43560 Square foot
+Question: 1 am est in london? Answer:  6:00 AM Wednesday, in London, UK
+Question: 1 am est in utc? Answer:  5:00 AM Wednesday, Coordinated Universal Time (UTC)
+Question: 1 am est to utc? Answer:  5:00 AM Wednesday, Coordinated Universal Time (UTC)
+Question: 1 am ist to est? Answer:  3:30 PM Wednesday, Eastern Time (ET)
+Question: 1 am pst to utc? Answer: 08:00 Tuesday, Coordinated Universal Time (UTC)
+Question: 1 am utc to pst? Answer: 6:00 p.m. Tuesday, Pacific Time (PT)
+Question: 1 atm is how many mbar? Answer: 1013.25 Millibar
+Question: 1 bar is how many pascals? Answer: 100000 Pascal
+Question: 1 calorie is equal to how much joules? Answer: 4.184 Joule
+Question: 1 cc equals how many ounces? Answer: 0.033814 US fluid ounce
+Question: 1 cent how many aar? Answer: 1076.39 Square foot
+Question: 1 centimetre is equal to how much metre? Answer: 0.01 Meter
+Question: 1 cm equals how much mm? Answer: 10 Millimeter
+Question: 1 cm is about the size of? Answer: 0.393701 Inch
+Question: 1 cm is equal to how much km? Answer: 1e-5 Kilometer
+Question: 1 cm is how many milliliters? Answer: 1 Milliliter
+Question: 1 cm3 how many m3? Answer: 1e-6 Cubic meter
+Question: 1 cu ft equals how many cubic yards? Answer: 0.037037 Cubic yard
+Question: 1 cup how many gallons? Answer: 0.0625 US liquid gallon
+Question: 1 cup is equal to how many tablespoons? Answer: 16 US tablespoon
+Question: 1 cup is how many fluid oz? Answer: 8 US fluid ounce
+Question: 1 cusec is equal to how much? Answer: 7.48052 US liquid gallon
+Question: 1 dam how much km? Answer: 0.01 Kilometer
+Question: 1 decimeter is equal to how many micrometers? Answer: 100000 Micrometer
+Question: 1 dm3 how many liters? Answer: 1 Liter
+Question: 1 dram is equal to oz? Answer: 0.0625002 Ounce
+Question: 1 dyne is equal to how many newton? Answer: 1e-5 Newton
+Question: 1 electron volt is how many joules? Answer: 1.60218e-19 Joule
+Question: 1 erg equal to how much joule? Answer: 1e-7 Joule
+Question: 1 feet is equal to how many links? Answer: 1.51642 Link
+Question: 1 feet is how much inch? Answer: 12 Inch
+Question: 1 fermi metre is equal to? Answer: 1e-15 Meter
+Question: 1 fit equal how many cm? Answer: 30.48 Centimeter
+Question: 1 fl oz how many tablespoons? Answer: 2 US tablespoon
+Question: 1 furlong is how many kilometre? Answer: 0.201168 Kilometer
+Question: 1 gigahertz is how many hertz? Answer: 1e+9 hertz
+Question: 1 gram is equal to how many mg? Answer: 1000 Milligram
+Question: 1 hectare how many bigha in gujarat? Answer: one eight Bigha
+Question: 1 hectare is equal to how many gaj? Answer: 12075.8 Square guz
+Question: 1 hector how many acre? Answer: 2.47105 Acre
+Question: 1 hekto are sama dengan berapa meter persegi? Answer: 10000 Square meter
+Question: 1 horsepower is how many watts? Answer: 745.7 Watt
+Question: 1 inch equal to how many centimeters? Answer: 2.54 Centimeter
+Question: 1 inch how much cm? Answer: 2.54 Centimeter
+Question: 1 is the prime number? Answer: No
+Question: 1 joule equals how many calories? Answer: 0.000239006 Kilocalorie
+Question: 1 joule equals to how many kilocalories? Answer: 0.000239006 Kilocalorie
+Question: 1 joule is equal to nanojoule? Answer: 1e+9 Nanojoule
+Question: 1 kanal is equal to? Answer: 5445 Square foot
+Question: 1 kanal is equal to feet? Answer: 5445 Square foot
+Question: 1 kg in how many grams? Answer: 1000 Gram
+Question: 1 kg is how many pennyweights? Answer: 643.015 Pennyweight
+Question: 1 kilo how many pounds? Answer: 2.20462 Pound
+Question: 1 kilo how many stones? Answer: 0.157473 Stone
+Question: 1 kilometer is how many? Answer: 1093.61 Yard
+Question: 1 kilowatt is how much watt? Answer: 1000 Watt
+Question: 1 kj is equal to how many calories? Answer: 0.239006 Kilocalorie
+Question: 1 kl how many cubic centimeter? Answer: 1000000 Cubic centimeter
+Question: 1 km how much feet? Answer: 3280.84 Foot
+Question: 1 km is equal to how many meters? Answer: 1000 Meter
+Question: 1 lb 11 oz is how many grams? Answer: 765.437124 Gram
+Question: 1 lb how much gram? Answer: 453.592 Gram
+Question: 1 leap year is equal to how many days? Answer: 366 Day
+Question: 1 liter equal how many oz? Answer: 33.814 US fluid ounce
+Question: 1 liter is equal to meter cube? Answer: 0.001 Cubic meter
+Question: 1 litre how much meter cube? Answer: 0.001 Cubic meter
+Question: 1 m equals how many nm? Answer: 1e+9 Nanometer
+Question: 1 m3 is equal to how many cubic feet? Answer: 35.3147 Cubic foot
+Question: 1 marla how many sq ft? Answer: 272.251 Square foot
+Question: 1 marla how many square foot? Answer: 272.251 Square foot
+Question: 1 marla how much feet? Answer: 272.251 Square foot
+Question: 1 mcg is equal to how many kilogram? Answer: 1e-9 Kilogram
+Question: 1 megajoule is equal to? Answer: 239.006 Kilocalorie
+Question: 1 meter and how many feet? Answer: 3.28084 Foot
+Question: 1 meter equals how many kilometers? Answer: 0.001 Kilometer
+Question: 1 meter how many liters? Answer: 1000 Liter
+Question: 1 meters is equal to inches? Answer: 39.3701 Inch
+Question: 1 metre how many cms? Answer: 100 Centimeter
+Question: 1 metre is equal to feet? Answer: 3.28084 Foot
+Question: 1 metre is equal to how many astronomical units? Answer: 6.68459e-12 Astronomical unit
+Question: 1 metre is equal to how many um? Answer: 1000000 Micrometer
+Question: 1 metre is how many feet? Answer: 3.28084 Foot
+Question: 1 metre is how many yards? Answer: 1.09361 Yard
+Question: 1 metric ton is how many mg? Answer: 1e+9 Milligram
+Question: 1 mg equals how many grains? Answer: 0.0154324 Grain
+Question: 1 mg equals how many gram? Answer: 0.001 Gram
+Question: 1 mg how much microgram? Answer: 1000 Microgram
+Question: 1 mi equals how many ft? Answer: 5280 Foot
+Question: 1 micrometre is equal to? Answer: 3.93701e-5 Inch
+Question: 1 micron equals how many millimeters? Answer: 0.001 Millimeter
+Question: 1 micron is equal to? Answer: 3.93701e-5 Inch
+Question: 1 micron is equal to how many nm? Answer: 1000 Nanometer
+Question: 1 mile how many furlongs? Answer: 7.99998 Furlong (US)
+Question: 1 mile is equal how many feet? Answer: 5280 Foot
+Question: 1 mile is equal km? Answer: 1.60934 Kilometer
+Question: 1 mile is equal to how much kilometers? Answer: 1.60934 Kilometer
+Question: 1 ml how much nanoliter? Answer: 1000000 Nanoliter
+Question: 1 ml is how much cl? Answer: 0.1 Centiliter
+Question: 1 mm equals how many thou? Answer: 39.3701 Thousandth of an inch
+Question: 1 mm is equal to what? Answer: 0.0393701 Inch
+Question: 1 mpa how many psi? Answer: 145.038 Pound-force per square inch
+Question: 1 mph equals to how many kph? Answer: 1.60934 Kilometer per hour
+Question: 1 mt is equal to? Answer: 2204.62 Pound
+Question: 1 mt means how much kg? Answer: 1000 Kilogram
+Question: 1 mu is how many square metre? Answer: 1e-12 Square meter
+Question: 1 nautical mile is equal to how many miles? Answer: 1.15078 Mile
+Question: 1 newton is equal to pounds? Answer: 0.224809 Pound-force
+Question: 1 nibble equal to how many bits? Answer: 4 Bit
+Question: 1 nm equals how many um? Answer: 0.001 Micrometer
+Question: 1 ounce is equal to cups? Answer: 0.125 US cup
+Question: 1 ounce is equal to how many cups? Answer: 0.125 US cup
+Question: 1 ounce is equivalent to how many cups? Answer: 0.125 US cup
+Question: 1 ounce is how many mg? Answer: 28349.5 Milligram
+Question: 1 ounce is how many milligrams? Answer: 28349.5 Milligram
+Question: 1 oz equals how many cl? Answer: 2.95735 Centiliter
+Question: 1 oz equals how many mils? Answer: 1.805e+9 Cubic thousandth of an inch
+Question: 1 oz equals how many quarts? Answer: 0.03125 US liquid quart
+Question: 1 oz how much kg? Answer: 0.0283495 Kilogram
+Question: 1 pascal how many bar? Answer: 1e-5 Bar
+Question: 1 perch is equal to meter? Answer: 5.0292 Meter
+Question: 1 pound is equal how many grams? Answer: 453.592 Gram
+Question: 1 pound per foot is equal to kg per meter? Answer: 1.48816 Kilogram / Meter
+Question: 1 poundal is equal to how much dyne? Answer: 13825.5 Dyne
+Question: 1 psi equals how many mmhg? Answer: 51.7149 Millimetre of mercury
+Question: 1 pt is equal to? Answer: 0.150119 US liquid gallon
+Question: 1 quart is how many millilitres? Answer: 946.353 millilitre
+Question: 1 s is how much ms? Answer: 1000 Millisecond
+Question: 1 sq meter is equal to how many feet? Answer: 10.7639 Square foot
+Question: 1 square foot is how many meters? Answer: 0.092903 Square meter
+Question: 1 square foot is how many yards? Answer: 0.111111 Square yard
+Question: 1 square yard how much sq ft? Answer: 9 Square foot
+Question: 1 tablespoon equals to how many dessert spoon? Answer: 1.24901 Imperial dessertspoon
+Question: 1 tan is how many kilogram? Answer: 907.185 Kilogram
+Question: 1 ton equal to how many kilograms? Answer: 907.185 Kilogram
+Question: 1 tonne how many kg? Answer: 1000 Kilogram
+Question: 1 turn how much degree? Answer: 360 Degree
+Question: 1 yard is what in feet? Answer: 3 Foot
+Question: 1 yd is how many miles? Answer: 0.000568182 Mile
+Question: 1 year how many hrs? Answer: 8760 Hour
+Question: 1 zettabyte is equal to how many petabytes? Answer: 1000000 Petabyte
+Question: 10 am central is what time eastern? Answer:  11:00 AM Thursday, Eastern Time (ET)
+Question: 10 am central is what time pacific? Answer:  8:00 AM Thursday, Pacific Time (PT)
+Question: 10 am central time in germany? Answer:  5:00 PM Thursday, in Germany
+Question: 10 am central to gmt? Answer:  3:00 PM Thursday, Greenwich Mean Time (GMT)
+Question: 10 am central to ist? Answer:  8:30 PM Thursday, Indian Standard Time (IST)
+Question: 10 am central to pacific? Answer:  8:00 AM Thursday, Pacific Time (PT)
+Question: 10 am cst to est? Answer:  11:00 AM Thursday, Eastern Time (ET)
+Question: 10 am cst to india time? Answer:  8:30 PM Thursday, in India
+Question: 10 am cst to london time? Answer:  4:00 PM Thursday, in London, UK
+Question: 10 am cst to singapore time? Answer:  11:00 PM Thursday, in Singapore
+Question: 10 am eastern to central? Answer:  9:00 AM Thursday, Central Time (CT)
+Question: 10 am edt to mst? Answer:  8:00 AM Thursday, Mountain Time (MT)
+Question: 10 am est is what in london? Answer:  3:00 PM Thursday, in London, UK
+Question: 10 am est is what time in berlin? Answer:  4:00 PM Thursday, in Berlin, Germany
+Question: 10 am est is what time in gmt? Answer:  2:00 PM Thursday, Greenwich Mean Time (GMT)
+Question: 10 am est to germany time? Answer:  4:00 PM Thursday, in Germany
+Question: 10 am est to ist time? Answer:  7:30 PM Thursday, Indian Standard Time (IST)
+Question: 10 am est to london time? Answer:  3:00 PM Thursday, in London, UK
+Question: 10 am est to malaysia time? Answer:  10:00 PM Thursday, in Malaysia
+Question: 10 am est to philippine time? Answer:  10:00 PM Thursday, in Philippines
+Question: 10 am est to pst? Answer:  7:00 AM Thursday, Pacific Time (PT)
+Question: 10 am est to tokyo time? Answer:  11:00 PM Thursday, in Tokyo, Japan
+Question: 10 am is to uk time? Answer:  6:00 PM Thursday, in United Kingdom
+Question: 10 am ist in australia? Answer:  2:30 PM Thursday, in Canberra ACT, Australia
+Question: 10 am ist to bst? Answer:  5:30 AM Thursday, British Summer Time (BST)
+Question: 10 am ist to gmt? Answer:  4:30 AM Thursday, Greenwich Mean Time (GMT)
+Question: 10 am ist to mst? Answer:  10:30 PM Wednesday, Mountain Time (MT)
+Question: 10 am ist to sgt? Answer:  12:30 PM Thursday, Singapore Time (SGT)
+Question: 10 am london time to ist? Answer:  2:30 PM Thursday, Indian Standard Time (IST)
+Question: 10 am manila time to cst? Answer:  9:00 PM Wednesday, Central Time (CT)
+Question: 10 am mdt to cst? Answer:  11:00 AM Thursday, Central Time (CT)
+Question: 10 am morocco time to ist? Answer:  2:30 PM Thursday, Indian Standard Time (IST)
+Question: 10 am mst is what est? Answer:  12:00 PM Thursday, Eastern Time (ET)
+Question: 10 am mst to cet? Answer:  6:00 PM Thursday, Central European Time (CET)
+Question: 10 am mst to ct? Answer:  11:00 AM Thursday, Central Time (CT)
+Question: 10 am mst to is? Answer:  9:00 AM Thursday, in California
+Question: 10 am pacific central time? Answer:  12:00 PM Thursday, Central Time (CT)
+Question: 10 am pacific in berlin? Answer:  7:00 PM Thursday, in Berlin, Germany
+Question: 10 am pacific in uk time? Answer:  6:00 PM Thursday, in United Kingdom
+Question: 10 am pacific standard time? Answer:  10:00 AM Thursday, in California
+Question: 10 am pacific standard time to eastern? Answer:  1:00 PM Thursday, Eastern Time (ET)
+Question: 10 am pacific time in canada? Answer:  1:00 PM Thursday, in Ottawa, ON, Canada
+Question: 10 am pacific time in denmark? Answer:  7:00 PM Thursday, in Denmark
+Question: 10 am pacific time in eastern time? Answer:  1:00 PM Thursday, Eastern Time (ET)
+Question: 10 am pacific time kiev? Answer:  8:00 PM Thursday, in Kyiv, Kyiv city, Ukraine
+Question: 10 am pacific time sweden? Answer:  7:00 PM Thursday, in Sweden
+Question: 10 am pacific time to central european? Answer:  6:00 PM Thursday, Central European Time (CET)
+Question: 10 am pacific time to eastern? Answer:  1:00 PM Thursday, Eastern Time (ET)
+Question: 10 am pacific time to est? Answer:  1:00 PM Thursday, Eastern Time (ET)
+Question: 10 am pacific time to european time? Answer:  7:00 PM Thursday, in Brussels, Belgium
+Question: 10 am pacific time to singapore? Answer:  1:00 AM Friday, in Singapore
+Question: 10 am pacific time to uk? Answer:  6:00 PM Thursday, in United Kingdom
+Question: 10 am pacific to uk? Answer:  6:00 PM Thursday, in United Kingdom
+Question: 10 am pdt to gmt? Answer:  5:00 PM Thursday, Greenwich Mean Time (GMT)
+Question: 10 am pst is what est? Answer:  1:00 PM Thursday, Eastern Time (ET)
+Question: 10 am pst is what time central? Answer:  12:00 PM Thursday, Central Time (CT)
+Question: 10 am pst is what time est? Answer:  1:00 PM Thursday, Eastern Time (ET)
+Question: 10 am pst to cst? Answer:  12:00 PM Thursday, Central Time (CT)
+Question: 10 am pst to germany time? Answer:  7:00 PM Thursday, in Germany
+Question: 10 am pst to london time? Answer:  6:00 PM Thursday, in London, UK
+Question: 10 am pst to madrid time? Answer:  7:00 PM Thursday, in Madrid, Spain
+Question: 10 am pt to cst? Answer:  12:00 PM Thursday, Central Time (CT)
+Question: 10 am sgt to ist? Answer:  7:30 AM Thursday, Indian Standard Time (IST)
+Question: 10 am us pacific time? Answer:  7:00 AM Thursday, Pacific Time (PT)
+Question: 10 inches is equal to how many centimetres? Answer: 25.4 Centimeter
+Question: 10 kg how much pounds? Answer: 22.0462 Pound
+Question: 10 meters is how many ft? Answer: 32.8084 Foot
+Question: 10 ton how much kg? Answer: 9071.85 Kilogram
+Question: 100 oz equal how many kg? Answer: 2.83495 Kilogram
+Question: 1000 dm3 is equal to how many ml? Answer: 1000000 Milliliter
+Question: 1000 ml equal how many litres? Answer: 1 Liter
+Question: 100g sugar is how many tsp? Answer: 19.20 tsp
+Question: 10am est is what pst? Answer:  7:00 AM Thursday, Pacific Time (PT)
+Question: 10am est is what time in india? Answer:  7:30 PM Thursday, in India
+Question: 10am pacific time is singapore? Answer:  1:00 AM Friday, in Singapore
+Question: 10am pst is what time central? Answer:  12:00 PM Thursday, Central Time (CT)
+Question: 10am pst is what time est? Answer:  1:00 PM Thursday, Eastern Time (ET)
+Question: 10am pst is what time in texas? Answer:  12:00 PM Thursday, in Austin, TX
+Question: 10m is what in mm? Answer: 10000 Millimeter
+Question: 11 00 am pst to ist? Answer:  11:30 PM Thursday, Indian Standard Time (IST)
+Question: 11 am atlantic time to eastern time? Answer:  10:00 AM Thursday, Eastern Time (ET)
+Question: 11 am cdt to manila time? Answer:  12:00 AM Friday, in Manila, Metro Manila, Philippines
+Question: 11 am cdt to mst? Answer:  10:00 AM Thursday, Mountain Time (MT)
+Question: 11 am cet to moscow? Answer:  12:00 PM Thursday, in Moscow, Russia
+Question: 11 am cst into est? Answer:  12:00 PM Thursday, Eastern Time (ET)
+Question: 11 am cst to dubai time? Answer:  8:00 PM Thursday, in Dubai - United Arab Emirates
+Question: 11 am cst to ist? Answer:  9:30 PM Thursday, Indian Standard Time (IST)
+Question: 11 am cst to pacific time? Answer:  9:00 AM Thursday, Pacific Time (PT)
+Question: 11 am cst to pst? Answer:  9:00 AM Thursday, Pacific Time (PT)
+Question: 11 am edt to moscow? Answer:  6:00 PM Thursday, in Moscow, Russia
+Question: 11 am est time to gmt? Answer:  3:00 PM Thursday, Greenwich Mean Time (GMT)
+Question: 11 am est to cet? Answer:  5:00 PM Thursday, Central European Time (CET)
+Question: 11 am est to finland? Answer:  6:00 PM Thursday, in Finland
+Question: 11 am est to madrid? Answer:  5:00 PM Thursday, in Madrid, Spain
+Question: 11 am est to malaysia time? Answer:  11:00 PM Thursday, in Malaysia
+Question: 11 am est to manila time? Answer:  11:00 PM Thursday, in Manila, Metro Manila, Philippines
+Question: 11 am est to melbourne time? Answer:  1:00 AM Friday, in Melbourne VIC, Australia
+Question: 11 am et my time? Answer:  8:00 AM Thursday, in California
+Question: 11 am finland time to ist? Answer:  1:30 PM Thursday, Indian Standard Time (IST)
+Question: 11 am finnish time to ist? Answer:  1:30 PM Thursday, Indian Standard Time (IST)
+Question: 11 am ist to cst? Answer:  12:30 AM Thursday, Central Time (CT)
+Question: 11 am ist to uk time? Answer:  6:30 AM Thursday, in United Kingdom
+Question: 11 am madrid time to ist? Answer:  2:30 PM Thursday, Indian Standard Time (IST)
+Question: 11 am mdt to est? Answer:  1:00 PM Thursday, Eastern Time (ET)
+Question: 11 am mnl to cst? Answer:  10:00 PM Wednesday, Central Time (CT)
+Question: 11 am mountain time to cst? Answer:  12:00 PM Thursday, Central Time (CT)
+Question: 11 am mountain time to est? Answer:  1:00 PM Thursday, Eastern Time (ET)
+Question: 11 am mst to arizona time? Answer:  10:00 AM Thursday, in Phoenix, AZ
+Question: 11 am mst to central time? Answer:  12:00 PM Thursday, Central Time (CT)
+Question: 11 am mst to cet? Answer:  7:00 PM Thursday, Central European Time (CET)
+Question: 11 am mst to est? Answer:  1:00 PM Thursday, Eastern Time (ET)
+Question: 11 am mst to germany? Answer:  7:00 PM Thursday, in Germany
+Question: 11 am mst to london? Answer:  6:00 PM Thursday, in London, UK
+Question: 11 am mst to philippine time? Answer:  1:00 AM Friday, in Philippines
+Question: 11 am mst to utc? Answer:  5:00 PM Thursday, Coordinated Universal Time (UTC)
+Question: 11 am pacific time to mountain time? Answer:  12:00 PM Thursday, Mountain Time (MT)
+Question: 11 am pdt to mst? Answer:  12:00 PM Thursday, Mountain Time (MT)
+Question: 11 am pst in cet? Answer:  8:00 PM Thursday, Central European Time (CET)
+Question: 11 am pst in mez? Answer:  8:00 PM Thursday, in Mèze, France
+Question: 11 am pst time to ist? Answer:  11:30 PM Thursday, Indian Standard Time (IST)
+Question: 11 am pst to malaysia time? Answer:  2:00 AM Friday, in Malaysia
+Question: 11 am pst to melbourne time? Answer:  4:00 AM Friday, in Melbourne VIC, Australia
+Question: 11 gb is equal to how many mb? Answer: 11000 Megabyte
+Question: 11 inches is equal to cm? Answer: 27.94 Centimeter
+Question: 11 minutes is how many seconds? Answer: 660 Second
+Question: 11 mm is equal to inches? Answer: 0.433071 Inch
+Question: 11 ounces is how many cups? Answer: 1.375 US cup
+Question: 11 oz is how many grams? Answer: 311.845 Gram
+Question: 11 pm est is what time in india? Answer:  8:30 AM Friday, in India
+Question: 11 pm is to cst? Answer:  1:00 AM Friday, Central Time (CT)
+Question: 112 inches long is how many feet? Answer: 9.33333 Foot
+Question: 112 sq ft how many sq meters? Answer: 10.4051 Square meter
+Question: 112mm is how many cm? Answer: 11.2 Centimeter
+Question: 11am cst is what est? Answer:  12:00 PM Thursday, Eastern Time (ET)
+Question: 11am cst is what time pst? Answer:  9:00 AM Thursday, Pacific Time (PT)
+Question: 11am pt is what cst? Answer:  1:00 PM Thursday, Central Time (CT)
+Question: 12 00 am in spanish? Answer:  3:00 AM Thursday, in California
+Question: 12 30 am est to ist? Answer:  10:00 AM Thursday, Indian Standard Time (IST)
+Question: 12 am central standard time? Answer:  10:00 PM Wednesday, in California
+Question: 12 am cest in deutschland? Answer:  12:00 AM Thursday, in Germany
+Question: 12 am cet to cst? Answer:  5:00 PM Wednesday, Central Time (CT)
+Question: 12 am cet to est? Answer:  6:00 PM Wednesday, Eastern Time (ET)
+Question: 12 am cst to australian time? Answer:  3:00 PM Thursday, in Canberra ACT, Australia
+Question: 12 am cst to california time? Answer:  10:00 PM Wednesday, in California
+Question: 12 am cst to cet? Answer:  7:00 AM Thursday, Central European Time (CET)
+Question: 12 am edt to mountain time? Answer:  10:00 AM Thursday, Mountain Time (MT)
+Question: 12 am est in deutschland? Answer:  6:00 AM Thursday, in Germany
+Question: 12 am est in india? Answer:  9:30 AM Thursday, in India
+Question: 12 am est in pst? Answer:  9:00 PM Wednesday, Pacific Time (PT)
+Question: 12 am est to argentina? Answer:  1:00 AM Thursday, in Buenos Aires, Argentina
+Question: 12 am est to cairo time? Answer:  6:00 AM Thursday, in Cairo, Egypt
+Question: 12 am est to california time? Answer:  9:00 PM Wednesday, in California
+Question: 12 am est to china? Answer:  12:00 PM Thursday, in China
+Question: 12 am est to dubai time? Answer:  8:00 AM Thursday, in Dubai - United Arab Emirates
+Question: 12 am est to gmt? Answer:  4:00 AM Thursday, Greenwich Mean Time (GMT)
+Question: 12 am est to korea time? Answer:  1:00 AM Friday, in South Korea
+Question: 12 am est to london time? Answer:  5:00 AM Thursday, in London, UK
+Question: 12 am est to mexico? Answer:  11:00 PM Wednesday, in Mexico City, CDMX, Mexico
+Question: 12 am est to mountain time? Answer:  10:00 PM Wednesday, Mountain Time (MT)
+Question: 12 am est to utc? Answer:  4:00 AM Thursday, Coordinated Universal Time (UTC)
+Question: 12 am est vs ist? Answer:  9:30 AM Thursday, Indian Standard Time (IST)
+Question: 12 am ist to cet? Answer:  8:30 PM Wednesday, Central European Time (CET)
+Question: 12 am ist to est? Answer:  2:30 PM Wednesday, Eastern Time (ET)
+Question: 12 am ist to gmt? Answer:  6:30 PM Wednesday, Greenwich Mean Time (GMT)
+Question: 12 am jst to est? Answer:  11:00 AM Wednesday, Eastern Time (ET)
+Question: 12 am manila time to cst? Answer:  11:00 PM Wednesday, Central Time (CT)
+Question: 12 am mnl to ist? Answer:  9:30 PM Wednesday, Indian Standard Time (IST)
+Question: 12 am mountain standard time? Answer:  11:00 PM Wednesday, in California
+Question: 12 am mst to pst? Answer:  11:00 PM Wednesday, Pacific Time (PT)
+Question: 12 am mst to utc? Answer:  6:00 AM Thursday, Coordinated Universal Time (UTC)
+Question: 12 am pacific daylight time? Answer:  12:00 PM Thursday, in California
+Question: 12 am pacific time deutschland? Answer:  9:00 AM Thursday, in Germany
+Question: 12 am pacific time to ist? Answer:  12:30 PM Thursday, Indian Standard Time (IST)
+Question: 12 am pdt to mountain time? Answer:  1:00 PM Thursday, Mountain Time (MT)
+Question: 12 am pst in germany? Answer:  9:00 AM Thursday, in Germany
+Question: 12 am pst to cet? Answer:  9:00 AM Thursday, Central European Time (CET)
+Question: 12 am pst to est? Answer:  3:00 AM Thursday, Eastern Time (ET)
+Question: 12 am pst to germany time? Answer:  9:00 PM Thursday, in Germany
+Question: 12 am pst to gmt? Answer:  7:00 AM Thursday, Greenwich Mean Time (GMT)
+Question: 12 am pst to manila time? Answer:  3:00 PM Thursday, in Manila, Metro Manila, Philippines
+Question: 12 am pst to mountain time? Answer:  1:00 AM Thursday, Mountain Time (MT)
+Question: 12 am pst to mst? Answer:  1:00 AM Thursday, Mountain Time (MT)
+Question: 12 am pt in deutschland? Answer:  9:00 AM Thursday, in Germany
+Question: 12 am pt in ireland? Answer:  8:00 PM Thursday, in Ireland
+Question: 12 am pt to aest? Answer:  5:00 PM Thursday, Australian Eastern Standard Time (AEST)
+Question: 12 am pt to cdt? Answer:  2:00 PM Thursday, Central Time (CT)
+Question: 12 am pt to cst? Answer:  2:00 AM Thursday, Central Time (CT)
+Question: 12 am pt to ist? Answer:  12:30 PM Thursday, Indian Standard Time (IST)
+Question: 12 am uk time to est? Answer:  7:00 PM Wednesday, Eastern Time (ET)
+Question: 12 am utc in deutschland? Answer:  2:00 AM Thursday, in Germany
+Question: 12 am utc to mst? Answer:  6:00 PM Wednesday, Mountain Time (MT)
+Question: 12 cm is equal to how many inches? Answer: 4.72441 Inch
+Question: 12 inches is equal to how many square feet? Answer: 0.0833333 Square foot
+Question: 12 lbs equal to how much kg? Answer: 5.44311 Kilogram
+Question: 12 million acres how big? Answer: 5.2272e+11 Square foot
+Question: 12 months how many weeks? Answer: 52.1429 Week
+Question: 12 mph is how many knots? Answer: 10.4277 Knot
+Question: 12 ounces equals how many cc? Answer: 354.882 Cubic centimeter
+Question: 12 oz is what in grams? Answer: 340.194 Gram
+Question: 12 pm cst is what est? Answer:  1:00 PM Thursday, Eastern Time (ET)
+Question: 12 pm est is what time in india? Answer:  9:30 PM Thursday, in India
+Question: 12 pm est is what time in saskatchewan? Answer:  10:00 AM Thursday, in Saskatchewan, Canada
+Question: 12 pm est is what time pst? Answer:  9:00 AM Thursday, Pacific Time (PT)
+Question: 12 pm in india is what time in us? Answer:  2:30 AM Thursday, in Washington, DC
+Question: 122 kg is what in lbs? Answer: 268.964 Pound
+Question: 122cm is how many feet? Answer: 4.00262 Foot
+Question: 12pm cst is what time est? Answer:  1:00 PM Thursday, Eastern Time (ET)
+Question: 12pm pst is what time est? Answer:  3:00 PM Thursday, Eastern Time (ET)
+Question: 130g is how many ounces? Answer: 4.58562 Ounce
+Question: 14 meters equals how many ft? Answer: 45.9318 Foot
+Question: 140 cm how many inches are? Answer: 55.1181 Inch
+Question: 15 ft 6 inches is how many inches? Answer: 186 Inch
+Question: 15 kilograms is equal to how many pounds? Answer: 33.0693 Pound
+Question: 1g is equivalent to how many kg? Answer: 0.001 Kilogram
+Question: 1m is equal to how many micrometers? Answer: 1000000 Micrometer
+Question: 1m2 is equal to how many cm? Answer: 10000 Square centimeter
+Question: 2 000 ml is equal to? Answer: 0.5283441 US liquid gallon
+Question: 2 am bst to gmt? Answer:  1:00 AM Thursday, Greenwich Mean Time (GMT)
+Question: 2 am cst to est? Answer:  3:00 AM Thursday, Eastern Time (ET)
+Question: 2 am cst to ist? Answer:  12:30 PM Thursday, Indian Standard Time (IST)
+Question: 2 am est in dubai? Answer:  10:00 AM Thursday, in Dubai - United Arab Emirates
+Question: 2 am est in germany? Answer:  8:00 AM Thursday, in Germany
+Question: 2 am est in hungary? Answer:  8:00 AM Thursday, in Hungary
+Question: 2 am est my time? Answer:  11:00 PM Wednesday, in California
+Question: 2 am est to aedt? Answer:  5:00 PM Thursday, Australian Eastern Daylight Time (AEDT)
+Question: 2 am est to california time? Answer:  11:00 PM Wednesday, in California
+Question: 2 am est to central time? Answer:  1:00 AM Thursday, Central Time (CT)
+Question: 2 am est to cst? Answer:  1:00 AM Thursday, Central Time (CT)
+Question: 2 am est to europe? Answer:  8:00 AM Thursday, in Brussels, Belgium
+Question: 2 am est to ksa? Answer:  9:00 AM Thursday, in Saudi Arabia
+Question: 2 am est to mountain time? Answer:  12:00 AM Thursday, Mountain Time (MT)
+Question: 2 am gmt in pst? Answer:  7:00 PM Wednesday, Pacific Time (PT)
+Question: 2 am ist to gmt? Answer:  8:30 PM Wednesday, Greenwich Mean Time (GMT)
+Question: 2 am pacific time to amsterdam? Answer:  11:00 AM Thursday, in Amsterdam, Netherlands
+Question: 2 am pacific time to central? Answer:  4:00 AM Thursday, Central Time (CT)
+Question: 2 am pacific time to gmt? Answer:  9:00 AM Thursday, Greenwich Mean Time (GMT)
+Question: 2 am pt deutsche zeit? Answer:  11:00 AM Thursday, in Germany
+Question: 2 am utc to cst? Answer:  9:00 PM Wednesday, Central Time (CT)
+Question: 2 and a quarter hours equals how many minutes? Answer: 135 Minute
+Question: 2 cm equals how many meters? Answer: 0.02 Meter
+Question: 2 cm is equal to how much inches? Answer: 0.787402 Inch
+Question: 2 ft 5 how many inches? Answer: 29 Inch
+Question: 2 grams is how many mcg? Answer: 2e+6 Microgram
+Question: 2 inch is equal to how many cm? Answer: 5.08 Centimeter
+Question: 2 lbs is equal to how many kilos? Answer: 0.907185 Kilogram
+Question: 2 liters how much gallons? Answer: 0.528344 US liquid gallon
+Question: 2 mt equals what in kg? Answer: 2000 Kilogram
+Question: 2 ounces is equal to how many tablespoons? Answer: 4 US tablespoon
+Question: 2 oz equals what in grams? Answer: 56.699 Gram
+Question: 2 pst is what cst? Answer:  4:00 AM Thursday, Central Time (CT)
+Question: 20 cubic meters how many liters? Answer: 20000 Liter
+Question: 20 fl oz is equal to? Answer: 0.15625 US liquid gallon
+Question: 20 gb is how much mb? Answer: 20000 Megabyte
+Question: 20 inches is equal to how many cm? Answer: 50.8 Centimeter
+Question: 20 kg equals how many grams? Answer: 20000 Gram
+Question: 20 kilos how many lbs? Answer: 44.0925 Pound
+Question: 20 ounces equals what in grams? Answer: 566.99 Gram
+Question: 20 stone is how many lbs? Answer: 280 Pound
+Question: 20 torr is equal to? Answer: 2666.45 Pascal
+Question: 20 weeks how many seconds? Answer: 1.21e+7 Second
+Question: 20 years equals how many seconds? Answer: 6.307e+8 Second
+Question: 200 cm are how many feet? Answer: 6.56168 Foot
+Question: 2000 grams is equal to how many pounds? Answer: 4.409245 Pound
+Question: 202 oz is how many pounds? Answer: 12.625 Pound
+Question: 208 mm how many cm? Answer: 20.8 Centimeter
+Question: 22 acres how many square miles? Answer: 0.034375 Square mile
+Question: 22 c is what in fahrenheit? Answer: 71.6 Fahrenheit
+Question: 22 cm is equivalent to how many inches? Answer: 8.66142 Inch
+Question: 22 degrees celsius how many fahrenheit? Answer: 71.6 Fahrenheit
+Question: 22 inch is what in cm? Answer: 55.88 Centimeter
+Question: 22 is a prime number? Answer: No
+Question: 22 lbs is equal to how many kg? Answer: 9.97903 Kilogram
+Question: 22 millimeters is equal to how many inches? Answer: 0.866142 Inch
+Question: 23 centimeters is what in meters? Answer: 0.23 Meter
+Question: 23 ft equals how many metres? Answer: 7.0104 Meter
+Question: 23 kilograms is equal to? Answer: 50.7063 Pound
+Question: 23 mm is how many feet? Answer: 0.0754593 Foot
+Question: 23 oz is equal to? Answer: 1.4375 Pound
+Question: 25 days is how many seconds? Answer: 2.16e+6 Second
+Question: 25 ft is equal to how many inches? Answer: 300 Inch
+Question: 25 gram is equal to? Answer: 0.0551156 Pound
+Question: 25 inches is what in meters? Answer: 0.635 Meter
+Question: 25 kilometers per hour equals what? Answer: 15.5343 Miles per hour
+Question: 25 meters is what in feet? Answer: 82.021 Foot
+Question: 25 mg is equal to? Answer: 5.51156e-5 Pound
+Question: 25 ounces is what in grams? Answer: 708.738 Gram
+Question: 25 pounds is equal to how many kgs? Answer: 11.3398 Kilogram
+Question: 25 weeks is how months? Answer: 5.75342 Month
+Question: 25 yards is equal to? Answer: 0.0142045 Mile
+Question: 25mm equals how many cm? Answer: 2.5 Centimeter
+Question: 26 inches is how big? Answer: 2.16667 Foot
+Question: 29 cm is how many foot? Answer: 0.951444 Foot
+Question: 29 days are how many weeks? Answer: 4.14286 Week
+Question: 29 days is how many minutes? Answer: 41760 Minute
+Question: 29 grams is how many kg? Answer: 0.029 Kilogram
+Question: 29 in is how much feet? Answer: 2.41667 Foot
+Question: 29 is equal to how many cm? Answer: 73.66 Centimeter
+Question: 29 kilograms is how much in pounds? Answer: 63.9341 Pound
+Question: 29 mm is how many cm? Answer: 2.9 Centimeter
+Question: 2meters is equal to how many cm? Answer: 200 Centimeter
+Question: 2pm cst is what time mst? Answer:  1:00 PM Thursday, Mountain Time (MT)
+Question: 2pm est is what time central? Answer:  1:00 PM Thursday, Central Time (CT)
+Question: 2pm est is what time in arizona? Answer:  11:00 AM Thursday, in Phoenix, AZ
+Question: 2pm pst is what time in finland? Answer:  12:00 AM Friday, in Finland
+Question: 3 liters equals how many deciliters? Answer: 30 Deciliter
+Question: 3 ounces is equal to how many milligrams? Answer: 85048.6 Milligram
+Question: 3 ounces is how many tbsp? Answer: 6 US tablespoon
+Question: 3 oz is what in ml? Answer: 88.7206 Milliliter
+Question: 3 quarts is how many ounces? Answer: 96 US fluid ounce
+Question: 300 kg is how much lbs? Answer: 661.387 Pound
+Question: 32 cm equals how many inches? Answer: 12.5984 Inch
+Question: 32 degrees celsius is what fahrenheit? Answer: 89.6 Fahrenheit
+Question: 32 inches equal to how many centimeters? Answer: 81.28 Centimeter
+Question: 32 inches is equal to how many yards? Answer: 0.888889 Yard
+Question: 32 mm is how much? Answer: 1.25984 Inch
+Question: 32 oz is how many pints? Answer: 2 US liquid pint
+Question: 37 inch how many centimeters? Answer: 93.98 Centimeter
+Question: 37 kg equal how many lbs? Answer: 81.571 Pound
+Question: 4 am est to utc? Answer:  8:00 AM Thursday, Coordinated Universal Time (UTC)
+Question: 4 am mst to ist? Answer:  3:30 PM Thursday, Indian Standard Time (IST)
+Question: 4 bits are equal to? Answer: 0.5 Byte
+Question: 40 cm is hiw many inches? Answer: 15.748 Inch
+Question: 40 cm is how many feet? Answer: 1.31234 Foot
+Question: 40 grams is how many lb? Answer: 0.0881849 Pound
+Question: 44 inches is how many cm? Answer: 111.76 Centimeter
+Question: 44 lb is how many kilograms? Answer: 19.9581 Kilogram
+Question: 45 cm is equal to how many m? Answer: 0.45 Meter
+Question: 45 feet is what in meters? Answer: 13.716 Meter
+Question: 45 is percent of 70? Answer: 64.285714285714%
+Question: 45 milliliters is equivalent to how many tablespoons? Answer: 3.04326 US tablespoon
+Question: 45 ml is how much ounces? Answer: 1.52163 US fluid ounce
+Question: 45 months is what in years? Answer: 3.75 Calendar year
+Question: 5 am mst to ist? Answer:  4:30 PM Thursday, Indian Standard Time (IST)
+Question: 5 am pst to manila time? Answer:  8:00 PM Thursday, in Manila, Metro Manila, Philippines
+Question: 5 feet 2 inch is equal to how many inches? Answer: 62 Inch
+Question: 5 feet and 11 inches is equal to? Answer: 71 Inch
+Question: 5 hectares is how many acres? Answer: 12.3553 Acre
+Question: 5 ml equals how many units? Answer: 0.00132086 US liquid gallon
+Question: 5 mm is how many teaspoons? Answer: 0.00101442 US teaspoon
+Question: 5 months is how many years? Answer: 0.416667 Calendar year
+Question: 5 pm est is what time? Answer:  2:00 PM Thursday, in California
+Question: 5 pm est is what time singapore? Answer:  5:00 AM Friday, in Singapore
+Question: 5 pm pacific is what time central? Answer:  7:00 PM Thursday, Central Time (CT)
+Question: 5 pounds is how many kg? Answer: 2.26796 Kilogram
+Question: 5 pounds is what in stone? Answer: 0.357143 Stone
+Question: 5 yards is equal to how many inches? Answer: 180 Inch
+Question: 50 cent is how tall? Answer: 6′ 0″
+Question: 50 inches is how many cm? Answer: 127 Centimeter
+Question: 50 kg how many pounds? Answer: 110.231 Pound
+Question: 50 kg is what in pounds? Answer: 110.231 Pound
+Question: 50 mm is equal to what? Answer: 1.9685 Inch
+Question: 500 mg what is it for? Answer: 0.00110231 Pound
+Question: 50ml is how many shots? Answer: 1.12713 Jigger
+Question: 52 acres is how many hectares? Answer: 21.0437 Hectare
+Question: 52 is how many inches? Answer: 4.33333 Foot
+Question: 52 kilograms is how many grams? Answer: 52000 Gram
+Question: 52 mm is how much cm? Answer: 5.2 Centimeter
+Question: 52 mph is how many km? Answer: 83.6859 Kilometer per hour
+Question: 5pm est is what time in sydney australia? Answer:  7:00 AM Friday, in Sydney NSW, Australia
+Question: 6 dm is equal to? Answer: 1.9685 Foot
+Question: 6 kg is how many ounces? Answer: 211.644 Ounce
+Question: 6 mm equals how many inches? Answer: 0.23622 Inch
+Question: 6 months equals how many weeks? Answer: 26.0715 Week
+Question: 6 oz is equal to how many cups? Answer: 0.75 US cup
+Question: 60 mm is how many inches? Answer: 2.3622 Inch
+Question: 7 am mst to cst? Answer:  8:00 AM Thursday, Central Time (CT)
+Question: 7 am pacific time to mountain time? Answer:  8:00 AM Thursday, Mountain Time (MT)
+Question: 750 ml is how many liters? Answer: 0.75 Liter
+Question: 750 ml of water is how many quarts? Answer: 0.792516 US liquid quart
+Question: 8 am cst to mst? Answer:  7:00 AM Thursday, Mountain Time (MT)
+Question: 8 am ist to australia time? Answer:  12:30 PM Thursday, in Canberra ACT, Australia
+Question: 8 am mst to cst? Answer:  9:00 AM Thursday, Central Time (CT)
+Question: 8 pm est what time? Answer:  5:00 PM Thursday, in California
+Question: 8 pm in india is what time est? Answer:  10:30 AM Thursday, Eastern Time (ET)
+Question: 8 pm ist is what time in est? Answer:  10:30 AM Thursday, Eastern Time (ET)
+Question: 8 to 11 is how many hours? Answer: 3 hours
+Question: 8pm est is what time pt? Answer:  5:00 PM Thursday, Pacific Time (PT)
+Question: 8pm et is what ct? Answer:  7:00 PM Thursday, Central Time (CT)
+Question: 8pm gmt is what time est? Answer:  4:00 PM Thursday, Eastern Time (ET)
+Question: 9 am mdt to est? Answer:  11:00 AM Thursday, Eastern Time (ET)
+Question: 9 am mst is to cst? Answer:  10:00 AM Thursday, Central Time (CT)
+Question: 9 am mst to ist? Answer:  8:30 PM Thursday, Indian Standard Time (IST)
+Question: 9 am pdt to mst? Answer:  10:00 AM Thursday, Mountain Time (MT)
+Question: 9 am pst to mst? Answer:  10:00 AM Thursday, Mountain Time (MT)
+Question: 99 is how many hours and minutes? Answer: 1.65 Hour
+Question: 99 mg is how many g? Answer: 0.099 Gram
+Question: 99 min is how long? Answer: 1.65 Hour
+Question: a capital da coreia do sul? Answer: Seoul
+Question: a morte do cameron boyce? Answer: Seizure
+Question: a noite do meu bem compositor? Answer: Dolores Duran
+Question: a origem do homem aranha? Answer: Queens
+Question: age to do uber eats? Answer: About 5 years
+Question: all i do stevie wonder album? Answer: Hotter than July
+Question: an acre has how many points? Answer: 3.252e+10 Square point
+Question: an angel has fallen release date? Answer: August 23, 2019
+Question: ano do filme tempos modernos? Answer: February 25, 1936
+Question: are bald eagles endangered or threatened? Answer: Least Concern
+Question: are chris and liam hemsworth brothers? Answer: Luke Hemsworth
+Question: are ellen degeneres and portia de rossi married? Answer: August 16, 2008 - present
+Question: are great pyrenees good for allergies? Answer: No
+Question: are great white sharks endangered? Answer: Vulnerable
+Question: are in a half cup? Answer: 7.21875 Cubic inch
+Question: are katie maloney and tom schwartz married? Answer: 17 August 2016 - present
+Question: are kevin bacon and kyra sedgwick married? Answer: 4 September 1988 - present
+Question: are loggerhead turtles endangered or threatened? Answer: Not extinct
+Question: are orcas on the endangered species list? Answer: Data deficient (Data inadequate to determine a threat category)
+Question: are red pandas becoming extinct? Answer: Endangered
+Question: are sri lankan elephants endangered? Answer: Not extinct
+Question: are the american buffalo extinct? Answer: Near Threatened
+Question: are the baudelaires still alive? Answer: Deceased
+Question: are the faces of a dodecahedron? Answer: 12
+Question: are there 12 inches in a foot? Answer: 1 Foot
+Question: are we there yeti drop rate? Answer: 10%
+Question: at 22 weeks how many months am i? Answer: 5.06301 Month
+Question: at what temperature does degree celsius equal degree fahrenheit? Answer: 0 Celsius
+Question: borzoi is in what group? Answer: Hound Group
+Question: campeoes da copa do mundo de futebol? Answer: France national football team
+Question: can you feel the love tonight genre? Answer: Children's Music
+Question: cast of 13 reasons why tony? Answer: Christian Navarro
+Question: cati ani are andreea marin? Answer: 45 years
+Question: cati ani are asli enver? Answer: 36 years
+Question: cati ani are belbita diana? Answer: 24 years
+Question: cati ani are isabela moner? Answer: 18 years
+Question: cati ani are iuliana tudor? Answer: 43 years
+Question: cati ani are petru luhan? Answer: 43 years
+Question: cati ani are stana izbasa? Answer: 51 years
+Question: cc is how many liter? Answer: 1000 cubic centimetre
+Question: convert 10 am cst to pst? Answer: 8:00 a.m. Saturday, Pacific Time (PT)
+Question: convert 10 am mst to cst? Answer: 11:00 am Saturday, Central Time (CT)
+Question: convert 10 am pacific time to central time? Answer: 12:00 pm Saturday, Central Time (CT)
+Question: convert 11 am est to gmt? Answer: 3:00 pm Sunday, Greenwich Mean Time (GMT)
+Question: convert 12 am cet to ist? Answer: 15:30 Sunday, Indian Standard Time (IST)
+Question: convert 12 am cst to ist? Answer: 10:30 Saturday, Indian Standard Time (IST)
+Question: convert 12 am pst to ist? Answer: 12:30 pm Saturday, Indian Standard Time (IST)
+Question: convert 12 am utc to est? Answer: 8:00 am Sunday, Eastern Time (ET)
+Question: convert 2 am cst to ist? Answer: 12:30 pm Saturday, Indian Standard Time (IST)
+Question: dancing with the stars val is he married? Answer: Jenna Johnson
+Question: do alicia keys have siblings? Answer: Cole Cook
+Question: does 1 cup equal a pint? Answer: 0.5 US liquid pint
+Question: does iyanla vanzant have a son? Answer: Damon Vanzant
+Question: does xxxtentacion have a son? Answer: Gekyume Onfroy
+Question: est 12 am to ist? Answer: 9:30 p.m. Monday, Indian Standard Time (IST)
+Question: excalibur a espada do rei arthur? Answer: Excalibur
+Question: faith hill where are you christmas album? Answer: Dr. Seuss’ How the Grinch Stole Christmas: Original Motion Picture Soundtrack
+Question: february how many days 2019? Answer: 28 days
+Question: feet are in 2 meters? Answer: 6.56168 Foot
+Question: game of thrones season 8 how many episodes have? Answer: 6
+Question: gb is equal to how many mb? Answer: 0.001 Gigabyte
+Question: has gemini man been released? Answer: 10 October 2019
+Question: has kurt russell ever been married? Answer: Season Hubley
+Question: has oti mabuse got a partner? Answer: Marius Iepure
+Question: has post malone been in a movie? Answer: Spenser Confidential
+Question: has ron howard ever been married? Answer: Cheryl Howard
+Question: has vanna white been married? Answer: George Santo Pietro
+Question: hey google when does descendants 3 come out? Answer: August 2019
+Question: how are emperor penguins endangered? Answer: Near Threatened
+Question: how arfa karim randhawa died? Answer: Seizure
+Question: how bonnie and clyde died? Answer: Gunshot wound
+Question: how did cameron boyce die? Answer: Seizure
+Question: how did janis joplin die? Answer: Heroin overdose
+Question: how did leon czolgosz die? Answer: Capital punishment
+Question: how do u convert kg to t? Answer: 0.001 tonne
+Question: how endangered are red pandas? Answer: Not extinct
+Question: how fast can you drive a jeep in 4x4? Answer: 179.6 mph
+Question: how fast is a tiger? Answer: 49 – 65 km/h
+Question: how is the house of representatives formed? Answer: 1789
+Question: how long are guinea pigs pregnant for? Answer: 59 – 72 days
+Question: how long can asian elephants live? Answer: 48 years
+Question: how long can wapiti live? Answer: 10 – 13 years
+Question: how long do aio coolers last? Answer: between 5-7 years
+Question: how long do you have to work for a company before you get maternity pay? Answer: 12 months
+Question: how long do you need to keep superannuation records? Answer: five years
+Question: how long does a german shepherd live? Answer: 9 – 13 years
+Question: how long does cairn terriers live for? Answer: 12 – 15 years
+Question: how long does it take to be good at meditation? Answer: two weeks
+Question: how long does it take to get a birth certificate tasmania? Answer: approximately 2 weeks
+Question: how long does it take to get a work permit for sweden? Answer: about 3 weeks
+Question: how long has cnn been around? Answer: About 40 years
+Question: how long has dci been around? Answer: About 48 years
+Question: how long has fbla been around? Answer: About 80 years
+Question: how long is 112 minutes from now? Answer: 1.86667 Hour
+Question: how long is extended version of lord of the rings? Answer: 3h 28m
+Question: how long is lord of the rings extended cut? Answer: 3h 28m
+Question: how long is pacific rim? Answer: 2h 12m
+Question: how many acres in a km square? Answer: 247.105 Acre
+Question: how many arcmin in 1 degree? Answer: 60 Minute of arc
+Question: how many calories in a can of coke? Answer: 140 Calories
+Question: how many calories is in colby jack cheese? Answer: 80 Calories
+Question: how many centimeters are in 1 ft? Answer: 30.48 centimetre
+Question: how many centimeters are there in 1 yard? Answer: 91.44 centimetre
+Question: how many centimeters equal 1 millimeter? Answer: 0.1 centimetre
+Question: how many centimeters in a cubic inch? Answer: 16.3871 Cubic centimetre
+Question: how many centimeters per second? Answer: 0.036 kilometre per hour
+Question: how many cm are in 11 inches? Answer: 27.94 centimetre
+Question: how many cm are in 25 mm? Answer: 2.5 centimetre
+Question: how many cm are in 50 inches? Answer: 127 centimetre
+Question: how many cm are in a feet? Answer: 30.48 centimetre
+Question: how many cm in 1 decimeter? Answer: 10 centimetre
+Question: how many cm in a dm? Answer: 10 centimetre
+Question: how many cm is 5 foot 7? Answer: 170.18 centimetre
+Question: how many cm is half an inch? Answer: 1.27 centimetre
+Question: how many cubic inches are there in 1 liter? Answer: 61.0237 Cubic inch
+Question: how many cups equal 200ml? Answer: 0.845351 US cup
+Question: how many cups equals a quart? Answer: 4 US cup
+Question: how many cups in 1 quartz? Answer: 4 US cup
+Question: how many cups is 2 pints? Answer: 4 US cup
+Question: how many cups is 6 quarts of water? Answer: 5678.12 millilitre
+Question: how many days are there in the month of october? Answer: 31
+Question: how many days of maternity leave in india? Answer: 180 days
+Question: how many days until june 7? Answer: 334 days
+Question: how many different languages was the bible written in? Answer: 3
+Question: how many dm in one cm? Answer: 0.1 Decimetre
+Question: how many episodes are in animal kingdom? Answer: 49
+Question: how many episodes are in fear the walking dead season 5? Answer: 16
+Question: how many episodes are in power rangers beast morphers? Answer: 44
+Question: how many episodes are in season 1 of korra? Answer: 12
+Question: how many episodes are in season 3 of once upon a time? Answer: 22
+Question: how many episodes are in the last season of game of thrones? Answer: 6
+Question: how many episodes are there for game of thrones season 8? Answer: 6
+Question: how many episodes are there in angel beats? Answer: 13
+Question: how many episodes are there in miraculous ladybug? Answer: 26
+Question: how many episodes are there in the series you? Answer: 20
+Question: how many episodes are there in the walking dead? Answer: 115
+Question: how many episodes are there in walking dead season 9? Answer: 16
+Question: how many episodes are there last dance? Answer: 10
+Question: how many episodes are there of hazbin hotel? Answer: 1
+Question: how many episodes are there of judge judy? Answer: 4,375
+Question: how many episodes are there to surviving r kelly? Answer: 11
+Question: how many episodes have there been in game of thrones? Answer: 60
+Question: how many episodes have vikings season 6? Answer: 10
+Question: how many episodes in game of thrones season 1? Answer: 10
+Question: how many episodes in gentleman jack? Answer: 8
+Question: how many episodes in ncis season 17? Answer: 20
+Question: how many episodes in season 1 of reign? Answer: 22
+Question: how many episodes in season eight of game of thrones? Answer: 6
+Question: how many episodes in the last season of american horror story? Answer: 103
+Question: how many episodes tmkoc completed? Answer: 2,953
+Question: how many episodes were in game of thrones season seven? Answer: 7
+Question: how many episodes were there of dark heart? Answer: 6
+Question: how many episodes were there of friends? Answer: 236
+Question: how many episodes were there of mr bean? Answer: 15
+Question: how many episodes will be in walking dead season 10? Answer: 15
+Question: how many episodes will there be in the last season of got? Answer: 6
+Question: how many fluid ounces are in 1 cup? Answer: 8 fluid ounce
+Question: how many fluid ounces are in 10 cups? Answer: 80 fluid ounce
+Question: how many fluid ounces are in 12 cups? Answer: 96 fluid ounce
+Question: how many fluid ounces are in 5 gallons? Answer: 640 fluid ounce
+Question: how many fluid ounces in a pint in uk? Answer: 16.6535 fluid ounce
+Question: how many fluid ounces in a shot? Answer: 1.5 fluid ounce
+Question: how many fluid ounces in one litre? Answer: 33.814 fluid ounce
+Question: how many fluid ounces is in a cup? Answer: 8.32674 fluid ounce
+Question: how many fluid ounces per gallon? Answer: 128 fluid ounce
+Question: how many fluid oz in 10 ml? Answer: 0.351951 fluid ounce
+Question: how many games are there for vr? Answer: At least 14
+Question: how many games khl season? Answer: 62
+Question: how many ghz are in a hz? Answer: 1e-9 Gigahertz
+Question: how many gigabytes in 1 terabyte? Answer: 1000 Gigabyte
+Question: how many grams in 12 oz? Answer: 340.194 Gram
+Question: how many grams in a ton? Answer: 907185 Gram
+Question: how many grams is 6 lbs 10 oz? Answer: 3005.0495 Gram
+Question: how many gsw championship ring? Answer: 6
+Question: how many hours a day do cats sleep? Answer: 12 – 16 hours
+Question: how many hours are in one and a half days? Answer: 36 Hour
+Question: how many hours of sleep does dog need? Answer: 12 – 14 hours
+Question: how many inches for 2m? Answer: 78.7402 Inch
+Question: how many inches in 1 foot? Answer: 12 Inch
+Question: how many inches is 2 km? Answer: 78740.2 Inch
+Question: how many inches is an iphone 7 in height? Answer: 5.44 inches
+Question: how many j are in a kcal? Answer: 4184 Joule
+Question: how many j crew stores? Answer: 506
+Question: how many kb make up 1 mb? Answer: 1000 Kilobyte
+Question: how many kbs are there in 1 tb? Answer: 1e+9 Kilobyte
+Question: how many kbs in 1 gb? Answer: 1000000 Kilobyte
+Question: how many kbs in a gig? Answer: 1000000 Kilobyte
+Question: how many kg is 11 stone 12 pounds? Answer: 75.29633342000001 Kilogram
+Question: how many kg make 1 lbs? Answer: 0.453592 Kilogram
+Question: how many khz in 1 mhz? Answer: 1000
+Question: how many kilobytes make 1 gb? Answer: 1000000 Kilobyte
+Question: how many liters equals 10 ml? Answer: 0.01 litre
+Question: how many liters is 50 gal? Answer: 189.271 litre
+Question: how many liters is in a cubic meter? Answer: 1000 litre
+Question: how many litres in a cubic metre? Answer: 1000 litre
+Question: how many megabytes in a kb? Answer: 0.001 Megabyte
+Question: how many members are in kidz bop? Answer: At least 12
+Question: how many meters is 10 yards? Answer: 9.144 metre
+Question: how many meters is 5 feet? Answer: 1.524 metre
+Question: how many meters is in 1 mile? Answer: 1609.34 metre
+Question: how many metres high is the empire state building? Answer: 381 m
+Question: how many mg make 1 g? Answer: 1000 Milligram
+Question: how many milliliters are in one quart? Answer: 946.353 millilitre
+Question: how many milliliters make 1 teaspoon? Answer: 4.92892 millilitre
+Question: how many milliliters to an ounce? Answer: 29.5735 millilitre
+Question: how many ml in 1 fluid oz? Answer: 28.4131
+Question: how many ml in 20 ounces? Answer: 591.471 millilitre
+Question: how many ml is 20 fl oz? Answer: 591.471 millilitre
+Question: how many ml is 6 oz? Answer: 170.478
+Question: how many mls is 20 cl? Answer: 200 millilitre
+Question: how many mm to cm? Answer: 0.1 centimetre
+Question: how many months dog pregnancy last? Answer: 58 – 68 days
+Question: how many months since 28th june 2018? Answer: 24 months 1 week
+Question: how many more months until june 19? Answer: 11 months 1 week
+Question: how many mph is 1 mach? Answer: 767.269 Miles per hour
+Question: how many ounces in a 2 liter? Answer: 67.628 fluid ounce
+Question: how many ounces is 130ml? Answer: 4.39582 fluid ounce
+Question: how many oz in 1 cup? Answer: 8.32674 fluid ounce
+Question: how many oz in 1 lbs? Answer: 16 Ounce
+Question: how many per 1 gb? Answer: 1e+9 Byte
+Question: how many planets in our solar system what are they? Answer: 8
+Question: how many pounds are 52 kg? Answer: 114.64 Pound
+Question: how many pounds does 1 kg equal? Answer: 2.20462 Pound
+Question: how many pounds is 5 stone? Answer: 70 Pound
+Question: how many protons and electrons does xenon have? Answer: Atomic number
+Question: how many protons in vanadium? Answer: 23
+Question: how many qrt in a pint? Answer: 0.5 US liquid quart
+Question: how many representatives does montana have? Answer: Greg Gianforte
+Question: how many representatives does vermont have? Answer: Peter Welch
+Question: how many representatives in south dakota? Answer: Dusty Johnson
+Question: how many seasons are there on this is us? Answer: 4
+Question: how many seasons have there been of frankie and grace? Answer: 6
+Question: how many seasons have there been of ncis? Answer: 17
+Question: how many seasons have there been of the vikings? Answer: 6
+Question: how many seasons is married at first sight? Answer: 10
+Question: how many seasons of v wars? Answer: 1
+Question: how many seasons of younger have there been? Answer: 6
+Question: how many senators in oklahoma? Answer: 2
+Question: how many sq ft in a mile? Answer: 2.788e+7 Square foot
+Question: how many square centimeters are in 1 square meter? Answer: 10000 Square centimetre
+Question: how many square centimeters in a square inch? Answer: 6.4516 Square centimetre
+Question: how many square feet equals 5 acre? Answer: 217800 Square foot
+Question: how many square feet half acre? Answer: 21780 Square foot
+Question: how many tablespoons are in 1 stick of butter? Answer: 8 US tablespoon
+Question: how many tablespoons in one fourth cup? Answer: 4 US tablespoon
